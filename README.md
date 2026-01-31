@@ -2,9 +2,13 @@
 
 <h4>Setup instructions</h4>
 1.create database in postgresSQL
+
 2.craete table using the schema.sql files
+
 3.feed the data using insert_data.sql
+
 4.insert openai apikey in the backend.py
+
 5.run streamlit app and use natural language to sql convertor.
 
 <h4>Accuracy & Hallucination Reduction</h4>
