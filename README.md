@@ -1,9 +1,10 @@
 # text-to-sql-project
 
 <h4>Setup instructions</h4>
+
 1.create database in postgresSQL
 
-2.craete table using the schema.sql files
+2.create table using the schema.sql files
 
 3.feed the data using insert_data.sql
 
